@@ -1,0 +1,10 @@
+1.影院列表：(cinema_list.json)
+ http://piao.163.com/m/cinema/list.html?app_id=1&mobileType=iPhone&ver=2.6&channel=appstore&deviceId=9E89CB6D-A62F-438C-8010-19278D46A8A6&apiVer=6&city=110000
+ 
+ 2.影院详情 (cinema_detail.json) POST请求
+ POST请求参数：cinema_id=1533
+ 
+ http://piao.163.com/m/cinema/schedule.html?app_id=1&mobileType=iPhone&ver=2.6&channel=appstore&deviceId=9E89CB6D-A62F-438C-8010-19278D46A8A6&apiVer=6&city=110000
+
+
+ 
